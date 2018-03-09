@@ -1,2 +1,2 @@
-# Pacman-AI
-AI project, done in a team of 2
+# Pacman-Project3
+Pacman Project 3 CSC345
